@@ -1,0 +1,7 @@
+{
+  "name": "figma-components",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
